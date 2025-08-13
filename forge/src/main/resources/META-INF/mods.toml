@@ -9,6 +9,7 @@ displayName="JEI Hover Search"
 displayURL="https://www.curseforge.com/members/madgique/projects"
 authors="Madgique"
 description='''JEI Hover Search mod'''
+logoFile = "icon.png"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
