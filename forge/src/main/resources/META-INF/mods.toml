@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Not specified"
+
+[[mods]]
+modId="jei_hover_search"
+version="${version}"
+displayName="JEI Hover Search"
+displayURL="https://www.curseforge.com/members/madgique/projects"
+authors="Madgique"
+description='''JEI Hover Search mod'''
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.jei_hover_search]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.jei_hover_search]]
+    modId="architectury"
+    mandatory=true
+    versionRange="[4.12.94,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.jei_hover_search]]
+    modId="jei"
+    mandatory=true
+    versionRange="[9.7.4,)"
+    ordering="NONE"
+    side="BOTH"
+
+
