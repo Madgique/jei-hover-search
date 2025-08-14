@@ -1,0 +1,12 @@
+# Generated files by MC
+.gradle/
+build/
+run/
+bin/
+
+# IDE
+.vscode/
+.idea/
+
+# Local environment variables (machine-specific, never commit)
+.env.local
